@@ -1,10 +1,11 @@
 # GX_Skydiving-ESX
 
 
-Information: This is a very simple script that you can book your skydiving flight with . 
+Information: This is a very simple script that you can book your skydiving flight with by ordering a pilot with a heli and throwing you from a specefic Height with a parachute . 
 
 # Requirements
  Esx 
+
 # Using Git
 cd resources
 git clone https://github.com/GxMerozi/GX_Skydiving-ESX- 
