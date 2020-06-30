@@ -8,7 +8,7 @@ Information: This is a very simple script that you can book your skydiving fligh
 
 # Using Git
 cd resources
-git clone https://github.com/GxMerozi/GX_Skydiving-ESX- 
+git clone https://github.com/GxMerozi/GX_Skydiving-ESX
 
 
 # Installation
