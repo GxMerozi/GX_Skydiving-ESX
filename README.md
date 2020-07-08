@@ -1,4 +1,4 @@
-# GX_Skydiving-ESX
+# GMX_Skydiving-ESX
 
 
 This is a very simple script that you can book your skydiving flight with by ordering a pilot with a heli and throwing you from a specefic Height with a parachute . 
